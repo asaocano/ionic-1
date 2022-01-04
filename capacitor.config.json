@@ -1,0 +1,13 @@
+{
+  "appId": "com.asaocano.vuememories",
+  "appName": "Vue Memories",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "public",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
